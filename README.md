@@ -40,6 +40,8 @@ students.json
 
 
 ## 코드 설명  
+[참고한 문서](https://dojang.io/mod/page/view.php?id=724)  
+
  ### 1. 구조체 선언  
  여기서는 String 형태만 사용합니다.
  ```c
